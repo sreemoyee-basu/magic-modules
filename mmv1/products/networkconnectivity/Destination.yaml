@@ -56,7 +56,6 @@ parameters:
     url_param_only: true
     description: |
       The location of the destination.
-
 properties:
   - name: 'name'
     type: String
